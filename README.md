@@ -1,8 +1,8 @@
 
 # <center> Leandro M. Abraham </center>
 
-#### [<center> leandromaf@gmail.com </center>](mailto:leandromaf@gmail.com) 
-#### [<center> linkedin.com/in/leandromaf </center>](http://www.linkedin.com/in/leandromaf)
+[<center> leandromaf@gmail.com </center>](mailto:leandromaf@gmail.com) 
+[<center> linkedin.com/in/leandromaf </center>](http://www.linkedin.com/in/leandromaf)
 
 ## <center> Academics </center>
 
