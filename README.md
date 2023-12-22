@@ -142,8 +142,15 @@ Universidad Tecnológica Nacional (Facultad Regional Mendoza) - Information Syst
 
 ## <center>  Postgraduate courses & trainings </center>
 
+### Practical Data Science with Amazon SageMaker
+AWS - [Certificate](https://drive.google.com/file/d/1ufikvLTLiYo5X-RDiEQNQVnfhXIt45Od/view?usp=sharing) - December 11, 2023
+
+
 ### AI for Medical Diagnosis
-Coursera - [License: BMFWHX6MW6TF](https://www.coursera.org/account/accomplishments/certificate/BMFWHX6MW6TF) - October, 2023.
+Coursera - [License: BMFWHX6MW6TF](https://www.coursera.org/account/accomplishments/certificate/BMFWHX6MW6TF) - October 2023.
+
+### MLOps Engineering
+AWS - [Certificate](https://drive.google.com/file/d/1dpAVxJorMlu4KUJwOiQSVVEefXaReEP_/view?usp=sharing) - December 21, 2022
 
 ### Machine Learning Explainability
 [Kaggle](https://www.kaggle.com/learn/certification/leandromaf/machine-learning-explainability) - April 2020
