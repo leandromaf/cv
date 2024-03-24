@@ -35,31 +35,32 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 * Design and Development of a Computer Vision system to detect digital overlaid graphics and text on screen
   * Lead and design data labeling process through AWS Sagemaker Ground Truth 
   * Model training and optimization on Sagemaker Notebooks and Training jobs
-  * Deployment as serverless endpoint on AWS Sagemaker infrastructure
-  * Colaboration with Backend engieers to use this endpoint in the product
+  * Deployment as server-less endpoint on AWS Sagemaker infrastructure
+  * Collaboration with Backend engineers to use this endpoint in the product
 * Design and Development of a Computer Vision system to cluster images and shots as being part of the same scene 
-   * Problem and dataset definition, metrics proposal, state of the art review and solution proposal 
+   * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal 
    * Lead and design data labeling process through AWS Sagemaker Ground Truth 
-   * State of the art Vision Transformers (ViT) models experimentation and customization
+   * State-of-the art Vision Transformers (ViT) models experimentation and customization
       * [VTCC](https://github.com/jackkoling/vtcc)
       * [SwinViT](https://huggingface.co/docs/transformers/model_doc/swin)  
   * Implementation of a pipeline for model evaluation and version comparison
 * Design and Development of a Computer Vision system Proof of Concept to re-identify all instances of a query object in a video
-  * Problem and dataset definition, metrics proposal, state of the art review and solution proposal
-  * Benchamrk evaluation dataset building from multiple sources
-  * State of the art models experimentation and customization
+  * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal
+  * Benchamark evaluation dataset building from multiple sources
+  * State-of-the-art models experimentation and customization
       * [PersonalizeSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
       * [DINOV2](https://github.com/facebookresearch/dinov2)
   * Implementation of a Proof of concept inference pipeline for model evaluation
+* Collaborate in the implementation and deployment of Machine Learning services based on pre-trained and open-source Large Language and Multi modal models used to understand, describe, and perform zero-shot classification on images and videos. 
 
 
 ### [Eventbrite](https://www.eventbrite.com/)
 
 #### Senior Data Scientist (August 2020 - January 2022)
 
-Data Analysis, design and experimentation of Predictive Models using Python for:
+Data Analysis, design, and experimentation of Predictive Models using Python for:
 
-* Development and deployment of Personalized event receommendations model
+* Development and deployment of Personalized events recommendation models
 * Event pages impressions prediction and analysis 
 * Multi-touch marketing channel attribution
 * Creator profile page engagement prediction
@@ -69,7 +70,7 @@ Data Analysis, design and experimentation of Predictive Models using Python for:
 
 #### Data Scientist (part-time, October 2019 - July 2020)
 
-Data Analysis, design and experimentation of Predictive Models using Python for:   
+Data Analysis, design, and experimentation of Predictive Models using Python for:   
 
 * Product features usage understanding
 * Tickets re-seller detection
@@ -117,7 +118,7 @@ Design and implementation of Back-end processes and pipelines that use Machine l
 
 #### Artifical intelligence researcher at [DHARMa Research Laboratory](http://dharma.frm.utn.edu.ar/) (since March 2011)
  
-Appliead scientific research in :
+Applied scientific research in :
 
 * RGB image and 3D point cloud classification
 * Research paper Writing
@@ -179,13 +180,13 @@ Universidad Nacional del Sur - Bahia Blanca, Buenos Aires, Argentina - September
 ### Introduction to planning algorithms
 Universidad Nacional del Centro de la Provincia de Buenos Aires - Tandil, Buenos Aires, Argentina - August and September 2013
 
-### Introduction to evolutionary copmuting
+### Introduction to evolutionary computing
 Universidad Nacional del Centro de la Provincia de Buenos Aires - Tandil, Buenos Aires, Argentina - June and July 2013
 
 ### Information retrieval and analysis
 Universidad Nacional del Centro de la Provincia de Buenos Aires - Tandil, Buenos Aires, Argentina - May 2013
 
-### Web Data Minnig
+### Web Data Mining
 Universidad Nacional del Centro de la Provincia de Buenos Aires - Tandil, Buenos Aires, Argentina - May 2013
 
 ### Digital images computational analysis
@@ -197,7 +198,7 @@ Universidad Tecnológica Nacional - Facultad Regional Mendoza - Mendoza, Argenti
 [PhD thesis in Computer Science](http://dharma.frm.utn.edu.ar/sites/default/files/biblio/adjuntos/phdthesis-leandroabraham-33462787.pdf). Universidad Nacional del Centro de la Provincia de Buenos Aires. October 2018.
 
 #### Abraham L., Bromberg F. and Forradellas R. - Ensemble of shape functions and support vector machines for the estimation of discrete arm muscle activation from external biceps 3D point clouds
-[Computers in Biology  and Medicine, Volume 95, 2018,Pages 129-139,ISSN 0010-4825](http://www.sciencedirect.com/science/article/pii/S0010482518300416),[DOI](https://doi.org/10.1016/j.compbiomed.2018.02.011).
+[Computers in Biology  and Medicine, Volume 95, 2018, Pages 129-139, ISSN 0010-4825](http://www.sciencedirect.com/science/article/pii/S0010482518300416),[DOI](https://doi.org/10.1016/j.compbiomed.2018.02.011).
 
 #### Abraham L., Bromberg F. and Forradellas R. - Arm muscular effort estimation from images using Computer Vision and Machine Learning 
 Proceedings 1st International Conference on Ambient Intelligence for Health, Puerto Varas (Chile), December 2015, [LNCS 9456 (ISBN: 978-3-319-26507-0)](https://link.springer.com/chapter/10.1007/978-3-319-26508-7_13)
