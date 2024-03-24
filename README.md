@@ -214,4 +214,4 @@ ASAI 2011, Córdoba (Argentina), August 2011.
 Native
 
 #### English 
-Fluid conversation, writing, and reading 
+Proficient conversation, writing, and reading 
