@@ -51,7 +51,13 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
       * [PersonalizeSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
       * [DINOV2](https://github.com/facebookresearch/dinov2)
   * Implementation of a Proof of concept inference pipeline for model evaluation
-* Collaborate in the implementation and deployment of Machine Learning services based on pre-trained and open-source Large Language and Multi modal models used to understand, describe, and perform zero-shot classification on images and videos. 
+* Collaborate in the implementation, deployment and evaluation of Machine Learning services based on pre-trained and open-source Large Language and Multi modal models used to understand, describe, and perform zero-shot classification on images and videos. Experimentation and evaluation with the following models (among others) :
+  * [Mantis: Multi-Image Instruction Tuning](https://github.com/TIGER-AI-Lab/Mantis/tree/main)
+  * [Moondream](https://github.com/vikhyat/moondream)
+  * [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
+  * [Mistral](https://huggingface.co/mistralai/Mistral-7B-v0.1)
+  * [Whisper](https://github.com/openai/whisper)
+* Collaborate in the design and implementation of an evaluation pipeline to evaluate the aforementioned models 
 
 
 ### [Eventbrite](https://www.eventbrite.com/)
