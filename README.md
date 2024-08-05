@@ -150,6 +150,10 @@ Universidad Tecnológica Nacional (Facultad Regional Mendoza) - Information Syst
 
 ## <center>  Postgraduate courses & trainings </center>
 
+### AI for Medical Prognosis
+Coursera - [License: 816DV5UEZF8V](https://www.coursera.org/account/accomplishments/certificate/816DV5UEZF8V) - August 2024.
+
+
 ### Practical Data Science with Amazon SageMaker
 AWS - [Certificate](https://drive.google.com/file/d/1ufikvLTLiYo5X-RDiEQNQVnfhXIt45Od/view?usp=sharing) - December 11, 2023
 
