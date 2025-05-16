@@ -5,6 +5,15 @@
 
 [<center> linkedin.com/in/leandromaf </center>](http://www.linkedin.com/in/leandromaf)
 
+[<center> Digital CV </center>](https://leandromaf.github.io/cv/)
+
+## <center> About me </center>
+
+Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering with theoretical knowledge and more than 10 years of experience in and applied projects. 
+
+Recently specializing in Causality, Deep Learning, and Large Models (Language, Vision, or Multimodal) with great interest in applications in Medicine and Biosciences. 
+
+
 ## <center> Academics </center>
 
 ### Computer Science PhD
@@ -30,19 +39,30 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 #### Senior Artificial Intelligence Engineer for [TripleLift](https://triplelift.com/) (January 2022 - Now)
 
+* Research, Experiment, and adopt Artificial Intelligence technologies to develop Intelligent Systems and Services.
 * Design and Analysis of metrics to evaluate a Product feature success
-* Collaboration with Product Manager and Cloud Engineers in the planning and architecture design of Machine Learning solutions for Video and Image analysis
-* Design and Development of a Computer Vision system to detect digital overlaid graphics and text on screen
+* Collaboration with Product Managers, Cloud, and MLOps Engineers in the planning and architecture design to develop both Proof of Concepts as well as Production Intelligent solutions for Video and Image analysis using Large Language and Vision models and classical Computer Vision and Machine Learning techniques
+* Design and Development of a RAG service to Categorize Web Ads following the IAB Ad Product Taxonomy using Large Multimodal Models and Embeddings
+  * Lead communications with the Product Manager to define and handle requisites and expectations
+  * Designed and implemented the main parts of the system
+  * Experimentation with different embedding models ending up using [AWS Titan Multimodal Embeddings model](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-multiemb-models.html)
+  * Collaboration with Backend engineers to use this endpoint in the product and evaluate the predictions in production
+* Design and Development of a Computer Vision system to detect digital overlaid graphics and text on the Screen
   * Lead and design data labeling process through AWS Sagemaker Ground Truth 
   * Model training and optimization on Sagemaker Notebooks and Training jobs
   * Deployment as server-less endpoint on AWS Sagemaker infrastructure
   * Collaboration with Backend engineers to use this endpoint in the product
+* Collaboration in the implementation of a dataset manager and evaluation system to quickly experiment and iterate different services based on MySQL databases, and Python scripts activated through Github actions and services implemented as lambda and step functions in AWS architecture 
+* Agile and fast state-of-the-art research, prototyping, and implementation of Proof of Concept pipelines for various potential CTV Content analysis types like:
+  * Emotion recognition from speech (using a HuggingFace implementation of a model pre-trained on the GoEmotions dataset)
+  * Audio tagging (using a model pre-trained on the AudioSet Ontology)
+  * Characters analysis (using the DeepFace Python library)
 * Design and Development of a Computer Vision system to cluster images and shots as being part of the same scene 
-   * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal 
-   * Lead and design data labeling process through AWS Sagemaker Ground Truth 
-   * State-of-the art Vision Transformers (ViT) models experimentation and customization
-      * [VTCC](https://github.com/jackkoling/vtcc)
-      * [SwinViT](https://huggingface.co/docs/transformers/model_doc/swin)  
+  * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal 
+  * Lead and design data labeling process through AWS Sagemaker Ground Truth 
+  * State-of-the art Vision Transformers (ViT) models experimentation and customization
+    * [VTCC](https://github.com/jackkoling/vtcc)
+    * [SwinViT](https://huggingface.co/docs/transformers/model_doc/swin)  
   * Implementation of a pipeline for model evaluation and version comparison
 * Design and Development of a Computer Vision system Proof of Concept to re-identify all instances of a query object in a video
   * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal
