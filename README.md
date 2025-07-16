@@ -16,13 +16,16 @@ Recently specializing in Causality, Deep Learning, and Large Models (Language, V
 
 ## <center> Academics </center>
 
+### AI for Medicine
+Coursera - June 16th, 2025 - [License: 2PZ1EWT8N3CX](https://www.coursera.org/account/accomplishments/specialization/2PZ1EWT8N3CX)
+
 ### Computer Science PhD
 Universidad Nacional del Centro de la Provincia de Buenos Aires, Facultad de Ciencias Exactas, Tandil - October 26th 2018 - 
 
 Thesis: [_Computer Vision and Machine Learning applied to biceps muscle activation estimation_](https://www.ridaa.unicen.edu.ar/xmlui/handle/123456789/1942)   
 
 ### Deep Learning Specialization
-Coursera - March 18th 2018 - [License: DK2MNP5NQSH4](https://www.coursera.org/account/accomplishments/specialization/DK2MNP5NQSH4)
+Coursera - March 18th, 2018 - [License: DK2MNP5NQSH4](https://www.coursera.org/account/accomplishments/specialization/DK2MNP5NQSH4)
 
 ### Technological Management Specialization
 Universidad Nacional de Cuyo, Facultad de Ciencias Económicas, Mendoza - August of 2017 
@@ -169,6 +172,9 @@ Universidad Tecnológica Nacional (Facultad Regional Mendoza) - Information Syst
 
 
 ## <center>  Postgraduate courses & trainings </center>
+
+### AI For Medical Treatment
+Coursera - [License: 816DV5UEZF8V](https://www.coursera.org/account/accomplishments/certificate/SPSEKZ04TYW1) - July 2025.
 
 ### AI for Medical Prognosis
 Coursera - [License: 816DV5UEZF8V](https://www.coursera.org/account/accomplishments/certificate/816DV5UEZF8V) - August 2024.
