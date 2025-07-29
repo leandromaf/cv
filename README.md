@@ -9,7 +9,7 @@
 
 ## <center> About me </center>
 
-Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering with theoretical knowledge and more than 10 years of experience in and applied projects. 
+Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering with theoretical knowledge and more than 10 years of experience in Research & Development and applied projects. 
 
 Recently specializing in Causality, Deep Learning, and Large Models (Language, Vision, or Multimodal) with great interest in applications in Medicine and Biosciences. 
 
@@ -39,6 +39,11 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 ## <center> Professional experience </center>
 
 ### [Freelance Data Science & Artificial Intelligence consultant]()
+
+#### Lead Data Scientist and Artificial Intelligence Engineer for [AgileEngine](https://triplelift.com/](https://agileengine.com/) (January 2022 - Now)
+
+* Technical Interviewing
+* Engineers mentoring in Data Science, Machine Learning, and Data Processing
 
 #### Senior Artificial Intelligence Engineer for [TripleLift](https://triplelift.com/) (January 2022 - Now)
 
@@ -95,6 +100,7 @@ Data Analysis, design, and experimentation of Predictive Models using Python for
 * Multi-touch marketing channel attribution
 * Creator profile page engagement prediction
 * Event creators segmentation
+* Junior Engineers mentoring in Data Science, Machine Learning, Experimentation and Data Instrumentation 
 
 
 
@@ -105,14 +111,15 @@ Data Analysis, design, and experimentation of Predictive Models using Python for
 * Product features usage understanding
 * Tickets re-seller detection
 * External Apps recommendation for event-creators
-* Event attendance prediction
+* Event attendance prediction. Collaborated to develop a model that predicted the fraction of event attendees from the ticket buyers within an 8% margin of error.
+
 
 #### Back-end Software engineer (January 2019 - July 2020)
 
 Collaborating with the design and implementation of services using Python,  for: 
 
 * Real-time tracking of product usage
-* Serving Machine Learning models for in-product insights and recommendations for Event Creators
+* Serving Machine Learning models for in-product insights and recommendations for Event Creators. Price recommendation model to help creators set the ticket prices for their events. Product feature that resulted in a conversion rate of > 90% with a lift of > 750K in gross revenue for creators and more than 80% positive NPS scores
 * Bulk event information retrieval for external partners
 
 #### Scrum Master (January 2019 - October 2019)
