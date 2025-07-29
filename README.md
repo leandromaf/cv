@@ -128,7 +128,11 @@ Collaborating with the design and implementation of services using Python,  for:
 
 #### [Neoproteins](https://neoproteins.com/) (August 2020 -  December 2021)
 
-Artificial Intelligence Adviser. Data analysis and Machine Learning R&D to find non-animal replacements for animal food proteins. 
+Artificial Intelligence Adviser in R&D to find non-animal replacements for animal food proteins. 
+
+* Proteins Database processing and analysis
+* Machine Learning Model Development and evaluation to predict protein function (e.g.: Solubility)
+* Collaborate to develop PoC, business plans and product ideation
 
 #### [Dymaxion Labs](https://dymaxionlabs.com/) (December 2018 - July 2020)
 
