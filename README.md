@@ -40,53 +40,41 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 ### [Freelance Data Science & Artificial Intelligence consultant]()
 
-#### Lead Data Scientist and Artificial Intelligence Engineer for [AgileEngine](https://triplelift.com/](https://agileengine.com/) (January 2022 - Now)
+#### Lead Data Scientist and Artificial Intelligence Engineer for [AgileEngine](https://agileengine.com/) (January 2022 - Now)
 
 * Technical Interviewing
 * Engineers mentoring in Data Science, Machine Learning, and Data Processing
-
-#### Senior Artificial Intelligence Engineer for [TripleLift](https://triplelift.com/) (January 2022 - Now)
-
-* Research, Experiment, and adopt Artificial Intelligence technologies to develop Intelligent Systems and Services.
-* Design and Analysis of metrics to evaluate a Product feature success
-* Collaboration with Product Managers, Cloud, and MLOps Engineers in the planning and architecture design to develop both Proof of Concepts as well as Production Intelligent solutions for Video and Image analysis using Large Language and Vision models and classical Computer Vision and Machine Learning techniques
-* Design and Development of a RAG service to Categorize Web Ads following the IAB Ad Product Taxonomy using Large Multimodal Models and Embeddings
-  * Lead communications with the Product Manager to define and handle requisites and expectations
-  * Designed and implemented the main parts of the system
-  * Experimentation with different embedding models ending up using [AWS Titan Multimodal Embeddings model](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-multiemb-models.html)
-  * Collaboration with Backend engineers to use this endpoint in the product and evaluate the predictions in production
-* Design and Development of a Computer Vision system to detect digital overlaid graphics and text on the Screen
-  * Lead and design data labeling process through AWS Sagemaker Ground Truth 
-  * Model training and optimization on Sagemaker Notebooks and Training jobs
-  * Deployment as server-less endpoint on AWS Sagemaker infrastructure
-  * Collaboration with Backend engineers to use this endpoint in the product
-* Collaboration in the implementation of a dataset manager and evaluation system to quickly experiment and iterate different services based on MySQL databases, and Python scripts activated through Github actions and services implemented as lambda and step functions in AWS architecture 
-* Agile and fast state-of-the-art research, prototyping, and implementation of Proof of Concept pipelines for various potential CTV Content analysis types like:
-  * Emotion recognition from speech (using a HuggingFace implementation of a model pre-trained on the GoEmotions dataset)
-  * Audio tagging (using a model pre-trained on the AudioSet Ontology)
-  * Characters analysis (using the DeepFace Python library)
-* Design and Development of a Computer Vision system to cluster images and shots as being part of the same scene 
-  * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal 
-  * Lead and design data labeling process through AWS Sagemaker Ground Truth 
-  * State-of-the art Vision Transformers (ViT) models experimentation and customization
-    * [VTCC](https://github.com/jackkoling/vtcc)
-    * [SwinViT](https://huggingface.co/docs/transformers/model_doc/swin)  
-  * Implementation of a pipeline for model evaluation and version comparison
-* Design and Development of a Computer Vision system Proof of Concept to re-identify all instances of a query object in a video
-  * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal
-  * Benchamark evaluation dataset building from multiple sources
-  * State-of-the-art models experimentation and customization
-      * [PersonalizeSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
-      * [DINOV2](https://github.com/facebookresearch/dinov2)
-  * Implementation of a Proof of concept inference pipeline for model evaluation
-* Collaborate in the implementation, deployment and evaluation of Machine Learning services based on pre-trained and open-source Large Language and Multi modal models used to understand, describe, and perform zero-shot classification on images and videos.
-  * Experimentation and evaluation with the following models (among others) :
-    * [Mantis: Multi-Image Instruction Tuning](https://github.com/TIGER-AI-Lab/Mantis/tree/main)
-    * [Moondream](https://github.com/vikhyat/moondream)
-    * [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
-    * [Mistral](https://huggingface.co/mistralai/Mistral-7B-v0.1)
-    * [Whisper](https://github.com/openai/whisper)
-  * Collaborate in the design and implementation of an evaluation pipeline to evaluate the aforementioned models 
+* Contributing to the CTV product vertical of a first-class digital advertising company by collaboration with Product Managers, Cloud, and MLOps Engineers in the planning, architecture design, implementation, and evaluation of both Proof of Concepts as well as Production Intelligent solutions for Video and Image analysis using Large Language and Vision models and classical Computer Vision and Machine Learning techniques
+  * Design and Development of a RAG service to Categorize Web Ads following the IAB Ad Product Taxonomy using Large Multimodal Models and Embeddings
+    * Lead communications with the Product Manager to define and handle requisites and expectations
+    * Designed and implemented the main parts of the system
+    * Experimentation with different embedding models like [AWS Titan Multimodal Embeddings model](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-multiemb-models.html)
+    * Collaboration with Backend engineers to use this endpoint in the product and evaluate the predictions in production
+  * Design and Development of a Computer Vision system to detect digital overlaid graphics and text on the Screen
+    * Lead and design the data labeling process through AWS Sagemaker Ground Truth 
+    * Model training and optimization on Sagemaker Notebooks and Training jobs
+    * Deployment as server-less endpoint on AWS Sagemaker infrastructure that worked without failures for at least 3 years. 
+    * Collaboration with Backend engineers to use this endpoint in the product
+  * Collaboration in the implementation of a dataset manager and evaluation system to quickly experiment and iterate different services based on MySQL databases, and Python scripts activated through Github actions and services implemented as lambda and step functions in AWS architecture 
+  * Agile and fast state-of-the-art research, prototyping, and implementation of Proof of Concept pipelines for various potential CTV Content analysis types like:
+    * Emotion recognition from speech (using a HuggingFace implementation of a model pre-trained on the GoEmotions dataset)
+    * Audio tagging (using a model pre-trained on the AudioSet Ontology)
+    * Characters analysis (using the DeepFace Python library)
+  * Design and Development of a Computer Vision system to cluster images and shots as being part of the same scene 
+    * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal 
+    * Lead and design the data labeling process through AWS Sagemaker Ground Truth 
+    * State-of-the art Vision Transformers (ViT) models experimentation and customization
+      * [VTCC](https://github.com/jackkoling/vtcc)
+      * [SwinViT](https://huggingface.co/docs/transformers/model_doc/swin)  
+    * Implementation of a pipeline for model evaluation and version comparison
+  * Design and Development of a Computer Vision system Proof of Concept to re-identify all instances of a query object in a video
+    * Problem and dataset definition, metrics proposal, state-of-the-art review, and solution proposal
+    * Benchamark evaluation dataset building from multiple sources
+    * State-of-the-art models experimentation and customization
+        * [PersonalizeSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
+        * [DINOV2](https://github.com/facebookresearch/dinov2)
+    * Implementation of a Proof of concept inference pipeline for model evaluation
+ 
 
 
 ### [Eventbrite](https://www.eventbrite.com/)
