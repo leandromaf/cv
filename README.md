@@ -44,16 +44,17 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 * Technical Interviewing
 * Engineers mentoring in Data Science, Machine Learning, and Data Processing
+* Collaborate in the design and implementation of AI and Data Science powered POCs and MVPs under reduced time constrains
 * Contributing to the CTV product vertical of a first-class digital advertising company by collaboration with Product Managers, Cloud, and MLOps Engineers in the planning, architecture design, implementation, and evaluation of both Proof of Concepts as well as Production Intelligent solutions for Video and Image analysis using Large Language and Vision models and classical Computer Vision and Machine Learning techniques
-  * Design and Development of a RAG service to Categorize Web Ads following the IAB Ad Product Taxonomy using Large Multimodal Models and Embeddings
+  * Design and Development of a service to Categorize Web Ads following the IAB Ad Product Taxonomy using Large Multimodal Models and Embeddings that achieved a Recall@top-5 ~70% and Accuracy@top-5 ~85% 
     * Lead communications with the Product Manager to define and handle requisites and expectations
     * Designed and implemented the main parts of the system
     * Experimentation with different embedding models like [AWS Titan Multimodal Embeddings model](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-multiemb-models.html)
     * Collaboration with Backend engineers to use this endpoint in the product and evaluate the predictions in production
-  * Design and Development of a Computer Vision system to detect digital overlaid graphics and text on the Screen
+  * Design, Development, and Deployment of a Single Shot multibox Detector Deep Learning model using AWS Sagemaker technologies 
     * Lead and design the data labeling process through AWS Sagemaker Ground Truth 
     * Model training and optimization on Sagemaker Notebooks and Training jobs
-    * Deployment as server-less endpoint on AWS Sagemaker infrastructure that worked without failures for at least 3 years. 
+    * Deployment as serverless endpoint on AWS Sagemaker infrastructure that worked without failures for at least 3 years. 
     * Collaboration with Backend engineers to use this endpoint in the product
   * Collaboration in the implementation of a dataset manager and evaluation system to quickly experiment and iterate different services based on MySQL databases, and Python scripts activated through Github actions and services implemented as lambda and step functions in AWS architecture 
   * Agile and fast state-of-the-art research, prototyping, and implementation of Proof of Concept pipelines for various potential CTV Content analysis types like:
