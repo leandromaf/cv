@@ -9,7 +9,7 @@
 
 ## <center> About me </center>
 
-Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering with analytic thinking and problem-solving skills as well as theoretical knowledge and more than 10 years of experience in Research & Development and applied projects. 
+Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering with analytic thinking, planning and problem-solving skills as well as theoretical knowledge and more than 10 years of experience in Research & Development and applied projects. 
 
 Recently specializing in Causality, Deep Learning, and Large Models (Language, Vision, or Multimodal) with great interest in applications in Medicine and Biosciences. 
 
