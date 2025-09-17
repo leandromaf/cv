@@ -51,7 +51,7 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
     * Designed and implemented the main parts of the system
     * Experimentation with different embedding models like [AWS Titan Multimodal Embeddings model](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-multiemb-models.html)
     * Collaboration with Backend engineers to use this endpoint in the product and evaluate the predictions in production
-  * Design, Development, and Deployment of a Single Shot multibox Detector Deep Learning model using AWS Sagemaker technologies 
+  * Design, Development, and Deployment of a Single Shot multibox Detector Deep Learning model using AWS Sagemaker technologies that achieved ~85.38% Recall, ~60% Precision at bounding-box level, and that 50% its predictions got IoU higher than 65%
     * Lead and design the data labeling process through AWS Sagemaker Ground Truth 
     * Model training and optimization on Sagemaker Notebooks and Training jobs
     * Deployment as serverless endpoint on AWS Sagemaker infrastructure that worked without failures for at least 3 years. 
