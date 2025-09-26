@@ -9,7 +9,7 @@
 
 ## <center> About me </center>
 
-Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering with analytic thinking, planning and problem-solving skills as well as theoretical knowledge and more than 10 years of experience in Research & Development and applied projects. 
+Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering. Analytic thinking, project planning, and problem-solving skills, as well as theoretical knowledge, and more than 10 years of experience in Research & Development and applied projects. 
 
 Recently specializing in Causality, Deep Learning, and Large Models (Language, Vision, or Multimodal) with great interest in applications in Medicine and Biosciences. 
 
@@ -50,12 +50,12 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 * Contributing to the CTV product vertical of a first-class digital advertising company by collaboration with Product Managers, Cloud, and MLOps Engineers in the planning, architecture design, implementation, and evaluation of both Proof of Concepts as well as Production Intelligent solutions for Video and Image analysis using Large Language and Vision models and classical Computer Vision and Machine Learning techniques
   * Design and Development of a service to Categorize Web Ads following the IAB Ad Product Taxonomy using Large Multimodal Models and Embeddings that achieved a Recall@top-5 ~70% and Accuracy@top-5 ~85% 
     * Lead communications with the Product Manager to define and handle requisites and expectations
-    * Designed and implemented the main parts of the system
+    * Lead Design and implemented main parts of the system
     * Experimentation with different embedding models like [AWS Titan Multimodal Embeddings model](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-multiemb-models.html)
     * Collaboration with Backend engineers to use this endpoint in the product and evaluate the predictions in production
-  * Design, Development, and Deployment of a Single Shot multibox Detector Deep Learning model using AWS Sagemaker technologies that achieved ~85.38% Recall, ~60% Precision at bounding-box level, and that 50% its predictions got IoU higher than 65%
+  * Design, Development, and Deployment of a Single Shot multibox Detector Deep Learning model using AWS Sagemaker technologies that achieved ~85.38% Recall, ~60% Precision at bounding-box level, and with 50% of its predictions obtaining IoU higher than 65%
     * Lead and design the data labeling process through AWS Sagemaker Ground Truth 
-    * Model training and optimization on Sagemaker Notebooks and Training jobs
+    * Lead Model training and optimization on Sagemaker Notebooks and Training jobs
     * Deployment as serverless endpoint on AWS Sagemaker infrastructure that worked without failures for at least 3 years. 
     * Collaboration with Backend engineers to use this endpoint in the product
   * Collaboration in the implementation of a dataset manager and evaluation system to quickly experiment and iterate different services based on MySQL databases, and Python scripts activated through Github actions and services implemented as lambda and step functions in AWS architecture 
@@ -75,45 +75,45 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
     * Benchamark evaluation dataset building from multiple sources
     * State-of-the-art models experimentation and customization
         * [PersonalizeSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
-        * [DINOV2](https://github.com/facebookresearch/dinov2)
-    * Implementation of a Proof of concept inference pipeline for model evaluation
+        * [DINOV2](https://github.com/facebookresearch/dinov2)    
  
-
 
 ### [Eventbrite](https://www.eventbrite.com/)
 
 #### Senior Data Scientist (August 2020 - January 2022)
 
-Data Analysis, design, and experimentation of Predictive Models using Python for:
+Data Analysis, design, and experimentation of Predictive Models using Python:
 
-* Development and deployment of Personalized events recommendation models
-* Event pages impressions prediction and analysis 
+* Lead the Development and deployment of a Personalized event recommendation model using AWS Sagemaker hoted factorizations-machines
+* Collaborated in Event pages impressions prediction and analysis 
 * Multi-touch marketing channel attribution
 * Creator profile page engagement prediction
-* Event creators segmentation
-* Junior Engineers mentoring in Data Science, Machine Learning, Experimentation and Data Instrumentation 
+* Collaborated in Event creators segmentation
 
+Junior Engineers mentoring in Data Science, Machine Learning, Experimentation, and Data Instrumentation 
 
 
 #### Data Scientist (part-time, October 2019 - July 2020)
 
-Data Analysis, design, and experimentation of Predictive Models using Python for:   
+Data Analysis, design, and experimentation of Predictive Models using Python:   
 
-* Product features usage understanding
-* Tickets re-seller detection
+* Data analysis for Product features usage understanding
+* Predictive models for Tickets re-seller detection
 * External Apps recommendation for event-creators
-* Event attendance prediction. Collaborated to develop a model that predicted the fraction of event attendees from the ticket buyers within an 8% margin of error.
+* Collaborated to develop a model that predicted the fraction of event attendees from the ticket buyers within an 8% margin of error.
 
 
-#### Back-end Software engineer (January 2019 - July 2020)
+#### Scrum Master and Back-end Software engineer (January 2019 - July 2020)
+
+Scrum process guidance of a team of 5 members leading the Standups, Planning, Grooming, and Retrospective meetings 
+
+Facilitated communication and team coordination between an engineering team and a data science team in the implementation and deployment of an ML Powered feature to surface in-product insights and recommendations for Event Creators. This product feature resulted in a conversion rate of > 90% with a lift of > 750K in gross revenue for creators and more than 80% positive NPS scores.
 
 Collaborating with the design and implementation of services using Python,  for: 
 
 * Real-time tracking of product usage
-* Serving Machine Learning models for in-product insights and recommendations for Event Creators. Price recommendation model to help creators set the ticket prices for their events. Product feature that resulted in a conversion rate of > 90% with a lift of > 750K in gross revenue for creators and more than 80% positive NPS scores
+* Serving the Machine Learning models for in-product insights and recommendations for Event Creators product feature. Price recommendation model to help creators set the ticket prices for their events. 
 * Bulk event information retrieval for external partners
-
-#### Scrum Master (January 2019 - October 2019)
 
 ### [Freelance Data Science & Artificial Intelligence consultant]()
 
