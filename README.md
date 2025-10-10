@@ -46,7 +46,8 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 * Technical Interviewing
 * Engineers mentoring in Data Science, Machine Learning, and Data Processing
-* Collaborate in the design and implementation of AI and Data Science powered POCs and MVPs under reduced time constrains
+* Collaborate in the design and implementation of AI and Data Science powered POCs and MVPs under reduced time constraints
+* Implementation of Asynchronous Data Processing pipelines as part of an Amplify Web APP with Python. Deployed as AWS Lambdas activated and orchestrated through SNS and SQS messaging, and reading data from and writing to PostgreSQL Databases. 
 * Contributing to the CTV product vertical of a first-class digital advertising company by collaboration with Product Managers, Cloud, and MLOps Engineers in the planning, architecture design, implementation, and evaluation of both Proof of Concepts as well as Production Intelligent solutions for Video and Image analysis using Large Language and Vision models and classical Computer Vision and Machine Learning techniques
   * Design and Development of a service to Categorize Web Ads following the IAB Ad Product Taxonomy using Large Multimodal Models and Embeddings that achieved a Recall@top-5 ~70% and Accuracy@top-5 ~85% 
     * Lead communications with the Product Manager to define and handle requisites and expectations
@@ -84,7 +85,7 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 Data Analysis, design, and experimentation of Predictive Models using Python:
 
-* Lead the Development and deployment of a Personalized event recommendation model using AWS Sagemaker hoted factorizations-machines
+* Lead the Development and deployment of a Personalized event recommendation model using [AWS Sagemaker hosted factorizations-machines](https://docs.aws.amazon.com/sagemaker/latest/dg/fact-machines.html)
 * Collaborated in Event pages impressions prediction and analysis 
 * Multi-touch marketing channel attribution
 * Creator profile page engagement prediction
@@ -99,8 +100,8 @@ Data Analysis, design, and experimentation of Predictive Models using Python:
 
 * Data analysis for Product features usage understanding
 * Predictive models for Tickets re-seller detection
-* External Apps recommendation for event-creators
-* Collaborated to develop a model that predicted the fraction of event attendees from the ticket buyers within an 8% margin of error.
+* External Apps recommendation for event-creators using frequent itemset mining techniques
+* Collaborated to develop a model that predicted the fraction of event attendees from the ticket buyers within an 8% margin of error using XGBoost.
 
 
 #### Scrum Master and Back-end Software engineer (January 2019 - July 2020)
@@ -121,9 +122,9 @@ Collaborating with the design and implementation of services using Python,  for:
 
 Artificial Intelligence Adviser in R&D to find non-animal replacements for animal food proteins. 
 
-* Proteins Database processing and analysis
-* Machine Learning Model Development and evaluation to predict protein function (e.g.: Solubility)
-* Collaborate to develop PoC, business plans and product ideation
+* Proteins Database ([UNIProt](https://www.uniprot.org/)) processing and analysis. 
+* Machine Learning Model Development and evaluation for similarity based protein matching and protein function production (e.g.: Solubility)
+* Collaborate to develop PoC, business plans, and product ideation
 
 #### [Dymaxion Labs](https://dymaxionlabs.com/) (December 2018 - July 2020)
 
