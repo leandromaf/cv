@@ -42,7 +42,7 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 ### [Freelance Data Science & Artificial Intelligence consultant]()
 
-#### Lead Data Scientist and Artificial Intelligence Engineer for [AgileEngine](https://agileengine.com/) (January 2022 - Now)
+#### Lead Data Scientist and Artificial Intelligence Engineer for [AgileEngine](https://agileengine.com/) (January 2022 - October 2025)
 
 * Technical Interviewing
 * Engineers mentoring in Data Science, Machine Learning, and Data Processing
@@ -175,6 +175,9 @@ Universidad Tecnológica Nacional (Facultad Regional Mendoza) - Information Syst
 
 
 ## <center>  Postgraduate courses & trainings </center>
+
+### Causal AI - An Introduction
+Udemy - [Certificate](https://www.udemy.com/certificate/UC-05ff1854-fd59-4707-b32f-e8576fcd3d56)
 
 ### AI For Medical Treatment
 Coursera - [License: 816DV5UEZF8V](https://www.coursera.org/account/accomplishments/certificate/SPSEKZ04TYW1) - July 2025.
