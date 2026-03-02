@@ -177,7 +177,7 @@ Universidad Tecnológica Nacional (Facultad Regional Mendoza) - Information Syst
 ## <center>  Postgraduate courses & trainings </center>
 
 ### Causal AI - An Introduction
-Udemy - [Certificate](https://www.udemy.com/certificate/UC-05ff1854-fd59-4707-b32f-e8576fcd3d56)
+Udemy - [Certificate](https://www.udemy.com/certificate/UC-05ff1854-fd59-4707-b32f-e8576fcd3d56) - February 2026.
 
 ### AI For Medical Treatment
 Coursera - [License: 816DV5UEZF8V](https://www.coursera.org/account/accomplishments/certificate/SPSEKZ04TYW1) - July 2025.
