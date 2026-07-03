@@ -42,6 +42,11 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 ### [Freelance Data Science & Artificial Intelligence consultant]()
 
+#### Data Scientist and Artificial Intelligence Engineer for [Blend 360](https://[agileengine.com/](https://www.blend360.com/)) (November 2025 - Now)
+
+* Agentic systems design and implementation for the Supply Chain Operations of the Retail business of big Pharmaceutical company.
+* Implementing data pipelines, Streamlit applications, Agentic Services, and Causal Inference models. 
+
 #### Lead Data Scientist and Artificial Intelligence Engineer for [AgileEngine](https://agileengine.com/) (January 2022 - October 2025)
 
 * Technical Interviewing
