@@ -9,7 +9,7 @@
 
 ## <center> About me </center>
 
-Expert in Artificial Intelligence, Data Science, Machine Learning, and Software Engineering. Analytic thinking, project planning, and problem-solving skills, as well as theoretical knowledge, and more than 10 years of experience in Research & Development and applied projects. 
+Expert in Artificial Intelligence, Data Science, Machine Learning, Causality, and Software Design & Engineering. Analytic thinking, project planning, and problem-solving skills, as well as theoretical knowledge, and about 15 years of experience in Research & Development and applied projects. 
 
 Recently specializing in Causality, Deep Learning, and Large Models (Language, Vision, or Multimodal) with great interest in applications in Medicine and Biosciences. 
 
@@ -40,12 +40,12 @@ Universidad Tecnológica Nacional, Facultad Regional Mendoza - December 19th 201
 
 ## <center> Professional experience </center>
 
-### [Freelance Data Science & Artificial Intelligence consultant]()
+### [Data Science & Artificial Intelligence consultant]()
 
 #### Data Scientist and Artificial Intelligence Engineer for [Blend 360](https://[agileengine.com/](https://www.blend360.com/)) (November 2025 - Now)
 
-* Agentic systems design and implementation for the Supply Chain Operations of the Retail business of big Pharmaceutical company.
-* Implementing data pipelines, Streamlit applications, Agentic Services, and Causal Inference models. 
+* Agentic systems design and implementation for the Supply Chain Operations of the Retail business of a big Pharmaceutical company.
+* Implementing data pipelines, Streamlit applications, Agentic Services, and Causal Inference models to assist Supply Chain Operations and help them improve and optimize they day to day work. 
 
 #### Lead Data Scientist and Artificial Intelligence Engineer for [AgileEngine](https://agileengine.com/) (January 2022 - October 2025)
 
