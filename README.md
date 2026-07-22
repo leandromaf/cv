@@ -243,7 +243,7 @@ Universidad Tecnológica Nacional - Facultad Regional Mendoza - Mendoza, Argenti
 ## <center>  Publications </center>
 
 #### Abraham L. and Bromberg F. - Visión computacional y aprendizaje de máquinas aplicado a la estimación de activación muscular del bíceps braquial
-[PhD thesis in Computer Science](http://dharma.frm.utn.edu.ar/sites/default/files/biblio/adjuntos/phdthesis-leandroabraham-33462787.pdf). Universidad Nacional del Centro de la Provincia de Buenos Aires. October 2018.
+[PhD thesis in Computer Science. Universidad Nacional del Centro de la Provincia de Buenos Aires. October 2018](https://ridaa.unicen.edu.ar/items/f88cd1dd-3caf-40f4-a655-6a75cfc98a54). 
 
 #### Abraham L., Bromberg F. and Forradellas R. - Ensemble of shape functions and support vector machines for the estimation of discrete arm muscle activation from external biceps 3D point clouds
 [Computers in Biology  and Medicine, Volume 95, 2018, Pages 129-139, ISSN 0010-4825](http://www.sciencedirect.com/science/article/pii/S0010482518300416),[DOI](https://doi.org/10.1016/j.compbiomed.2018.02.011).
@@ -252,10 +252,10 @@ Universidad Tecnológica Nacional - Facultad Regional Mendoza - Mendoza, Argenti
 Proceedings 1st International Conference on Ambient Intelligence for Health, Puerto Varas (Chile), December 2015, [LNCS 9456 (ISBN: 978-3-319-26507-0)](https://link.springer.com/chapter/10.1007/978-3-319-26508-7_13)
 
 #### Abraham L., Bromberg F. and Forradellas R. - Estimación de carga muscular mediante imágenes  
-ASAI 2014, Buenos Aires (Argentina),  September 2014.
+[ASAI 2014, Buenos Aires (Argentina),  September 2014](https://43jaiio.sadio.org.ar/proceedings/ASAI/12.pdf).
 
 #### Schlüter F., Bromberg F. and Abraham L. - Strategies for piecing-together Local-to-Global Markov networks learning algorithms  
-ASAI 2011, Córdoba (Argentina), August 2011.
+[ASAI 2011, Córdoba (Argentina), August 2011](https://sedici.unlp.edu.ar/handle/10915/125248).
 
 ## <center>  Languages </center>
 #### Spanish
